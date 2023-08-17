@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shumax
 - 👀 I’m interested in tech foment to beginners developers
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning AWS Certified Developer - Associate
 - 📫 How to reach me: **[E-mail](mailto:maxcastro.mv@gmail.com)** / **[LinkedIn](https://bit.ly/32XZV4h)**
 
 <!---
